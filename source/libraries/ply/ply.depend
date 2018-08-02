@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1274327063 source:c:\program files\mingw\libraries\ply\ply.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ply.h>
+
+902440562 c:\program files\mingw\libraries\ply\ply.h
+	<stdio.h>
+	<stddef.h>
+
