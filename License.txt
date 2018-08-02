@@ -1,0 +1,16 @@
+********************
+* SOFTWARE LICENSE *
+********************
+
+(c) 20111 Dodgee Software All rights are reserved.
+Author is Shem Taylor can be contacted at dodgeesoftware@gmail.com
+
+The Application and the Source Code remains the property of Dodgee Software. 
+
+This code is published for reference use only. 
+
+Any unauthorised use, copying or distribtuion of this code is not permitted. 
+
+This code base was a project submission to the University of Technology Sydney. If you attempt to submit this or any of the code through their plagarism filter you will be be caught!
+
+I have release this because I published a video on my youtube channel demonstrating it.
