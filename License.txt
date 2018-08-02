@@ -3,7 +3,7 @@
 ********************
 
 (c) 20111 Dodgee Software All rights are reserved.
-Author is Shem Taylor can be contacted at dodgeesoftware@gmail.com
+Author is Shem Taylor can be contacted at dodgeesoftware@gmail.com
 
 The Application and the Source Code remains the property of Dodgee Software. 
 
